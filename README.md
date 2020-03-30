@@ -1,2 +1,1 @@
-# TodoList2
-敏捷作业之使用React
+<div class="margin-t-3"><h3><span>作业内容</span></h3><div class="margin-t-2 mark-down-wrap"><div class="markdown-body markdown-init "><p><!-- react-text: 180 -->"Todo List示例<!-- /react-text --></p><ul><li><p><!-- react-text: 184 -->渲染一个todo List<!-- /react-text --></p></li><li><p><!-- react-text: 187 -->可以添加新的 todo 事项<!-- /react-text --></p></li><li><p><!-- react-text: 190 -->可以区分已完成和未完成事项<!-- /react-text --></p></li><li><!-- react-text: 192 -->可以将未完成的事项标记为已完成"<!-- /react-text --></li></ul></div></div><div class="margin-t-2">
